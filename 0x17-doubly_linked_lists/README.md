@@ -1,0 +1,1 @@
+In C programming, a doubly linked list is a type of linked list in which each node contains a data element and two pointers, one pointing to the next node in the sequence (like in a singly linked list) and another pointing to the previous node. This allows for easy traversal in both directions.
